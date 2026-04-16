@@ -39,3 +39,7 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Internal documentation
+CLAUDE.md
+ARCHITECTURE.md

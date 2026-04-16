@@ -4,7 +4,6 @@ All tests are written before the implementation exists.
 """
 
 import numpy as np
-import pytest
 
 from seismotrack.interfaces.i_seismic_generator import ISeismicGenerator
 from seismotrack.ingestion.seismic_signal_generator import SeismicSignalGenerator
