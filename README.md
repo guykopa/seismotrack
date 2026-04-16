@@ -1,8 +1,11 @@
 # seismotrack
 
-[![CI](https://github.com/fkopa/seismotrack/actions/workflows/ci.yml/badge.svg)](https://github.com/fkopa/seismotrack/actions/workflows/ci.yml)
+[![CI](https://github.com/guykopa/seismotrack/actions/workflows/ci.yml/badge.svg)](https://github.com/guykopa/seismotrack/actions/workflows/ci.yml)
+[![Docs](https://github.com/guykopa/seismotrack/actions/workflows/docs.yml/badge.svg)](https://guykopa.github.io/seismotrack/)
 [![Coverage](https://img.shields.io/badge/coverage-99%25-brightgreen)](.coverage)
 [![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)](https://www.python.org)
+
+📖 **Documentation** : https://guykopa.github.io/seismotrack/
 
 A Python pipeline for processing raw seismic signals from 3-axis sensors
 (Z, N, E). Applies a chain of denoising steps and exports cleaned data to
