@@ -4,7 +4,6 @@ All tests are written before the implementation exists.
 """
 
 import numpy as np
-import pytest
 
 from seismotrack.interfaces.i_denoising_step import IDenoisingStep
 from seismotrack.denoising.baseline_step import BaselineStep
