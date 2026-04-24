@@ -20,9 +20,7 @@ env/
 htmlcov/
 coverage.xml
 
-# HDF5 output files
-*.h5
-*.hdf5
+# HDF5 output
 
 # IDE
 .vscode/
